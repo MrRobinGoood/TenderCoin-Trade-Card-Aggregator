@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ru.algor</groupId>
-    <artifactId>parser</artifactId>
+    <artifactId>aggregator</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>parser</name>
     <description>parser</description>
