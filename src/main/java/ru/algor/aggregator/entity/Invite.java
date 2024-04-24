@@ -2,7 +2,7 @@ package ru.algor.aggregator.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
-import ru.algor.aggregator.composite.key.InviteKey;
+import ru.algor.aggregator.composite.InviteKey;
 
 @Table(name = "invite")
 @Entity

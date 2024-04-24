@@ -2,7 +2,7 @@ package ru.algor.aggregator.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
-import ru.algor.aggregator.composite.key.TeamUserKey;
+import ru.algor.aggregator.composite.TeamUserKey;
 import ru.algor.aggregator.enums.TeamRole;
 
 import java.time.LocalDateTime;

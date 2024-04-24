@@ -2,7 +2,7 @@ package ru.algor.aggregator.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
-import ru.algor.aggregator.composite.key.TradeCardPurchaseObjectKey;
+import ru.algor.aggregator.composite.TradeCardPurchaseObjectKey;
 import ru.algor.aggregator.enums.MeasureUnit;
 
 @Table(name = "trade_card_purchase_object")

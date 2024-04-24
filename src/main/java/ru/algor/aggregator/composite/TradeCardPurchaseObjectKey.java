@@ -1,4 +1,4 @@
-package ru.algor.aggregator.composite.key;
+package ru.algor.aggregator.composite;
 
 import lombok.*;
 import ru.algor.aggregator.entity.PurchaseObject;

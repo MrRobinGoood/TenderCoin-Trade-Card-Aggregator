@@ -2,7 +2,7 @@ package ru.algor.aggregator.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
-import ru.algor.aggregator.composite.key.CollectionTaskKey;
+import ru.algor.aggregator.composite.CollectionTaskKey;
 
 @Table(name = "collection_task")
 @Entity

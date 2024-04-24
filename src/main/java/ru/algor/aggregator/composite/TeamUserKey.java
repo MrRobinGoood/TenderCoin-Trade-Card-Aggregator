@@ -1,4 +1,4 @@
-package ru.algor.aggregator.composite.key;
+package ru.algor.aggregator.composite;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
@@ -13,7 +13,7 @@ import java.io.Serializable;
 @Setter
 @NoArgsConstructor
 @EqualsAndHashCode
-public class InviteKey implements Serializable {
+public class TeamUserKey implements Serializable {
     private Team team;
     private User user;
 }

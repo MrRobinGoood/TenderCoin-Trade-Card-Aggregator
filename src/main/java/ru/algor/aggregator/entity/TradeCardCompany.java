@@ -2,7 +2,7 @@ package ru.algor.aggregator.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
-import ru.algor.aggregator.composite.key.TradeCardCompanyKey;
+import ru.algor.aggregator.composite.TradeCardCompanyKey;
 import ru.algor.aggregator.enums.CompanyRole;
 
 @Table(name = "trade_card_company")

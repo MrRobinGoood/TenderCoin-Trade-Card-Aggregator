@@ -1,4 +1,4 @@
-package ru.algor.aggregator.composite.key;
+package ru.algor.aggregator.composite;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
